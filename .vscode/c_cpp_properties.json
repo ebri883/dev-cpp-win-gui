@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+			"includePath": [
+				"${workspaceFolder}/**",
+				"D:/Progam/CPP_Compilers/raylib/raylib/src/**"
+			],
+      "defines": [],
+      "compilerPath": "D:/Progam/CPP_Compilers/raylib/w64devkit/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++23",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
